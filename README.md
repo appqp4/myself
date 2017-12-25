@@ -1,0 +1,2 @@
+# myself
+python/deep learning
